@@ -1,0 +1,5 @@
+{
+  "name": "ProductLens AI",
+  "description": "Clean up product photos, remove backgrounds, and apply creative edits using simple text commands powered by Gemini.",
+  "requestFramePermissions": []
+}
